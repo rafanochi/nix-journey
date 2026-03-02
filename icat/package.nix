@@ -1,8 +1,0 @@
-{
-  stdenv,
-  fetchzip,
-}:
-
-stdenv.mkDerivation{
-
-}
